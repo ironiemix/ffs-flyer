@@ -406,12 +406,15 @@
        x="35"
        y="656.28198"
        id="text4533"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/frank/Dokumente/002_Computerkram/009_Freifunk/ffs/github/ffs-flyer/restaurant-flyer-seite2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          x="35"
          y="656.28198"
          style="font-size:22px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#58585a;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-         id="tspan4537">Einen Freifunk Router kannst Du <tspan
+         id="tspan4537">Einen Freifunk-Router kannst Du <tspan
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan3414">ohne rechtliche Risiken</tspan> aufstellen – die Freifunk-Software </tspan><tspan
          sodipodi:role="line"
