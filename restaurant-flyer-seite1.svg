@@ -40,10 +40,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="1005.3432"
-     inkscape:cy="369.59785"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="1441.9782"
+     inkscape:cy="154.09509"
+     inkscape:current-layer="g4794"
      id="namedview2989"
      showgrid="false"
      showguides="false"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -419,7 +419,9 @@
            y="384.09448"
            x="1160"
            id="tspan4710"
-           sodipodi:role="line">Freifunk Stuttgart e.V. <tspan
+           sodipodi:role="line">CC-BY-SA Frank Schiebel <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Webdings;-inkscape-font-specification:Webdings"
+   id="tspan3285">=</tspan> V.iS.d.P: Freifunk Stuttgart e.V. <tspan
    style="font-size:12.59080124px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Webdings;-inkscape-font-specification:Webdings"
    id="tspan3079">=</tspan> Bebel-Str. 36 <tspan
    style="font-size:12.59080124px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Webdings;-inkscape-font-specification:Webdings"
