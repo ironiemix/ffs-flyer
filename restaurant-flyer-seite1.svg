@@ -40,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="1441.9782"
-     inkscape:cy="154.09509"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="525.61747"
+     inkscape:cy="346.57984"
      inkscape:current-layer="g4794"
      id="namedview2989"
      showgrid="false"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -419,9 +419,11 @@
            y="384.09448"
            x="1160"
            id="tspan4710"
-           sodipodi:role="line">CC-BY-SA Frank Schiebel <tspan
+           sodipodi:role="line"><tspan
+   style="fill:#cccccc"
+   id="tspan3397">CC-BY-SA Frank Schiebel</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Webdings;-inkscape-font-specification:Webdings"
-   id="tspan3285">=</tspan> V.iS.d.P: Freifunk Stuttgart e.V. <tspan
+   id="tspan3285"> =</tspan> V.iS.d.P: Freifunk Stuttgart e.V. <tspan
    style="font-size:12.59080124px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Webdings;-inkscape-font-specification:Webdings"
    id="tspan3079">=</tspan> Bebel-Str. 36 <tspan
    style="font-size:12.59080124px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Webdings;-inkscape-font-specification:Webdings"
@@ -429,7 +431,7 @@
    style="font-size:12.59080124px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Webdings;-inkscape-font-specification:Webdings"
    id="tspan3083">=</tspan> 06/2015</tspan></text>
       <g
-         transform="translate(1075.9322,370.9749)"
+         transform="translate(1075.9318,371.74773)"
          inkscape:label="Layer 1"
          id="layer1-9">
         <g
@@ -445,13 +447,16 @@
                height="15"
                x="170.5"
                y="237.86218" />
-            <rect
-               y="239.36218"
-               x="172"
-               height="12"
-               width="77"
-               id="rect3751"
-               style="fill:#000000;fill-opacity:1;stroke:none" />
+            <g
+               id="g3262">
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:none"
+                 id="rect3751"
+                 width="77"
+                 height="12"
+                 x="172"
+                 y="239.36218" />
+            </g>
             <path
                inkscape:connector-curvature="0"
                style="fill:#abb1aa;fill-opacity:1;stroke:none"
