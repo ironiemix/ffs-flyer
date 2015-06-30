@@ -1,7 +1,8 @@
-Flyer "Digitale Gastfreundschaft" 
----------------------------------
+CC-BY-SA 3.0
+------------
 
-(CC-BY-SA 3.0) 2015 Frank Schiebel <frank@linuxmuster.net> 
+Flyer "Digitale Gastfreundschaft" 
+2015 Frank Schiebel <frank@linuxmuster.net> 
 Erstellt für Freifunk Stuttgart - http://freifunk-stuttgart.de/ 
 
 CC-BY-SA 3.0 (DE)
