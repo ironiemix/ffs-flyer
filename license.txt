@@ -1,0 +1,62 @@
+Flyer "Digitale Gastfreundschaft" 
+---------------------------------
+
+(CC-BY-SA 3.0) 2015 Frank Schiebel <frank@linuxmuster.net> 
+Erstellt für Freifunk Stuttgart - http://freifunk-stuttgart.de/ 
+
+CC-BY-SA 3.0 (DE)
+-----------------
+https://creativecommons.org/licenses/by-sa/3.0/de/
+
+Sie dürfen:
+
+Teilen:das Material in jedwedem Format oder Medium vervielfältigen und
+weiterverbreiten 
+Bearbeiten: das Material remixen, verändern und darauf
+aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+Lizenzbedingungen halten.
+
+Unter folgenden Bedingungen:
+
+Namensnennung: Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+oder Ihre Nutzung besonders.
+
+Weitergabe unter gleichen Bedingungen: Wenn Sie das Material remixen, verändern
+oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter
+derselben Lizenz wie das Original verbreiten.
+
+Keine weiteren Einschränkungen: Sie dürfen keine zusätzlichen Klauseln oder
+technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen,
+was die Lizenz erlaubt.
+
+
+CC-BY-SA 3.0 (EN)
+-----------------
+https://creativecommons.org/licenses/by-sa/3.0/
+
+You are free to:
+
+Share: copy and redistribute the material in any medium or format 
+Adapt: remix, transform, and build upon the material for any purpose, even
+commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license
+terms.
+
+Under the following terms:
+
+Attribution: You must give appropriate credit, provide a link to the license,
+and indicate if changes were made. You may do so in any reasonable manner, but
+not in any way that suggests the licensor endorses you or your use.
+
+ShareAlike: If you remix, transform, or build upon the material, you must
+distribute your contributions under the same license as the original.
+
+No additional restrictions: You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
